@@ -13,5 +13,5 @@ Aplicación web desarrollada en **React** y estilizada con **Tailwind CSS** para
 * **Navegación:** Menú interactivo con vistas de Inicio (Inventario), Ingresar Artículo, Quiénes Somos y Contáctanos.
 
 ## 👨‍💻 Autor
-* **Estudiante:** Alejandro Miranda  
+* **Estudiante:** Alejandro 
 * **Asignatura:** Desarrollo Frontend II (PFY2202) - Duoc UC
